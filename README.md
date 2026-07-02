@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&width=920&height=50&duration=2600&pause=700&center=true&vCenter=true&background=12001F&color=39FF14&separator=%7C%7C&lines=init+sequence+ok||stack+code+design+deploy||awaiting+input" alt="Typing SVG" />
 
 <!-- 下方两图：上下排列 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanze&layout=compact&langs_count=8&card_width=500&title_color=00fff0&text_color=c9d1d9&bg_color=0d0221&border_color=ff00ff&hide_border=false" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanze&layout=compact&langs_count=8&card_width=500&title_color=00fff0&text_color=c9d1d9&bg_color=0d0221&border_color=ff00ff&hide_border=false" alt="Top Langs" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanze&bg_color=0d0221&color=00fff0&line=ff00ff&point=ffffff&area=true&height=220" width="920" alt="GitHub Activity Graph" />
 
