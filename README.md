@@ -9,6 +9,6 @@
 <!-- 下方两图：上下排列 -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanze&layout=compact&langs_count=8&card_width=500&title_color=00fff0&text_color=c9d1d9&bg_color=0d0221&border_color=ff00ff&hide_border=false" alt="Top Langs" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanze&bg_color=0d0221&color=00fff0&line=ff00ff&point=ffffff&area=true&height=220" width="920" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=Alanze&background=0D0221&stroke=ff00ff&ring=00fff0&fire=ff00ff&currStreakNum=00fff0&sideNums=c9d1d9&currStreakLabel=00fff0&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
