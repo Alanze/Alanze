@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&width=920&height=50&duration=2600&pause=700&center=true&vCenter=true&background=12001F&color=39FF14&separator=%7C%7C&lines=init+sequence+ok||stack+code+design+deploy||awaiting+input" alt="Typing SVG" />
 
 <!-- 下方两图：上下排列 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanze&layout=compact&langs_count=8&card_width=500&title_color=00fff0&text_color=c9d1d9&bg_color=0d0221&border_color=ff00ff&hide_border=false" alt="Top Langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanze&theme=tokyonight" alt="Top Langs" />
 
-<img src="https://streak-stats.demolab.com?user=Alanze&background=0D0221&stroke=ff00ff&ring=00fff0&fire=ff00ff&currStreakNum=00fff0&sideNums=c9d1d9&currStreakLabel=00fff0&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Alanze&background=0D0221&stroke=ff00ff&ring=00fff0&fire=ff00ff&currStreakNum=00fff0&sideNums=c9d1d9&currStreakLabel=00fff0&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=3600" alt="GitHub Streak" />
 
 </div>
