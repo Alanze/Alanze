@@ -9,6 +9,6 @@
 <!-- 下方两图：上下排列 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanze&theme=tokyonight" alt="Top Langs" />
 
-<img src="https://streak-stats.demolab.com?user=Alanze&background=0D0221&stroke=ff00ff&ring=00fff0&fire=ff00ff&currStreakNum=00fff0&sideNums=c9d1d9&currStreakLabel=00fff0&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=3600" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alanze&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
